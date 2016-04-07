@@ -37,8 +37,9 @@
   color: #6E7E8A;
 }
 
-.box .at {
+.box .handle:before {
   color: #B4BDC2;
+  content: '@';
 }
 
 /*  Clearfix courtesy of http://nicolasgallagher.com/micro-clearfix-hack/
