@@ -5,6 +5,7 @@
   border-top: 1px solid #FEFEFE;
   clear: both;
   font-family: 'helvetica', 'sans-serif';
+  font-size: 90%;
 
   background: #FAFAFA; /* For browsers that do not support gradients */
   background: -webkit-linear-gradient(#FBFBFB, #F9F9F9); /* For Safari 5.1 to 6.0 */
@@ -28,12 +29,16 @@
 .box .when {
   float: right;
   color: #CECECE;
-  font-size: 80%;
+  font-size: 75%;
   padding-top: 2px;
 }
 
 .box .handle {
   color: #6E7E8A;
+}
+
+.box .at {
+  color: #B4BDC2;
 }
 
 /*  Clearfix courtesy of http://nicolasgallagher.com/micro-clearfix-hack/
